@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 Về bản thân tôi
-Tôi là một sinh viên ngành Khoa học Máy tính và Công nghệ Thông tin, luôn bị cuốn hút bởi tư duy logic, cấu trúc dữ liệu và việc xây dựng các giải pháp phần mềm tối ưu. Định hướng hiện tại của tôi là đào sâu vào trí tuệ nhân tạo và bảo mật hệ thống.
+Tôi là một sinh viên ngành Khoa học Máy tính và Công nghệ Thông tin của trường Đại Học Khoa Học Tự Nhiên ( HCMUS ) , luôn bị cuốn hút bởi tư duy logic, cấu trúc dữ liệu và việc xây dựng các giải pháp phần mềm tối ưu. Định hướng hiện tại của tôi là đào sâu vào trí tuệ nhân tạo và bảo mật hệ thống.
 
 - 👨‍💻 **Kế hoạch mùa hè này:** Tập trung nâng cao kỹ năng lập trình **Python, C/C++, HTML/CSS**, tìm hiểu sâu về **AI** và săn tìm các chứng chỉ công nghệ giá trị.
 - 🎯 **Mục tiêu dài hạn:** Trở thành chuyên gia trong lĩnh vực **Cybersecurity & AI Engineering**.
