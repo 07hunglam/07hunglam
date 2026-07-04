@@ -1,4 +1,4 @@
-# Hi there, I'm [Tên của bạn]! 👋
+# Hi there, I'm Hưng! 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Computer+Science+Student;C%2F%2B%2B+%7C+Python+%7C+HTML+CSS;Exploring+AI+%26+Cybersecurity" alt="Typing SVG" />
