@@ -37,10 +37,7 @@ Tôi là một sinh viên ngành Khoa học Máy tính và Công nghệ Thông t
 
 ### 📊 Thống kê GitHub của tôi
 
-<p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=07hunglam&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=07hunglamlayout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=07hunglam&theme=tokyonight" alt="GitHub Streak" />
