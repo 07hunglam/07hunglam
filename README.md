@@ -38,12 +38,12 @@ Tôi là một sinh viên ngành Khoa học Máy tính và Công nghệ Thông t
 ### 📊 Thống kê GitHub của tôi
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Thay_Bằng_Username_Của_Bạn]&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Thay_Bằng_Username_Của_Bạn]&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=07hunglam&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=07hunglam&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[Thay_Bằng_Username_Của_Bạn]&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=07hunglam&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -51,6 +51,6 @@ Tôi là một sinh viên ngành Khoa học Máy tính và Công nghệ Thông t
 ### 🤝 Kết nối với tôi
 Để chuẩn bị tốt cho việc hoàn thiện hồ sơ chuyên nghiệp sau này, bạn có thể kết nối với tôi qua các nền tảng:
 
-✨ [LinkedIn](https://linkedin.com/in/[Thay_Bằng_Username_Của_Bạn]) | 📧 [Email của bạn]
+✨ [LinkedIn](https://linkedin.com/in/07hunglam) | 📧 hunglam220907@gmail.com
 
 <p align="right"><i>"Tư duy kiên định, hành động kỷ luật." 🛡️</i></p>
