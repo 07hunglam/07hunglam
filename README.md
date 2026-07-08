@@ -15,21 +15,21 @@
 
 ---
 
-### 🚀 Về bản thân tôi
+### 🚀 About Me
 
-Tôi là một sinh viên ngành Khoa học Máy tính và Công nghệ Thông tin của trường Đại Học Khoa Học Tự Nhiên (HCMUS), luôn bị cuốn hút bởi tư duy logic, cấu trúc dữ liệu và việc xây dựng các giải pháp phần mềm tối ưu. Định hướng hiện tại của tôi là đào sâu vào trí tuệ nhân tạo và bảo mật hệ thống.
+I'm a Computer Science and Information Technology student at the University of Science, Ho Chi Minh City (HCMUS), always drawn to logical thinking, data structures, and building optimized software solutions. My current focus is diving deeper into artificial intelligence and system security.
 
-- 👨‍💻 **Kế hoạch mùa hè này:** Tập trung nâng cao kỹ năng lập trình **Python, C/C++, HTML/CSS**, tìm hiểu sâu về **AI** và săn tìm các chứng chỉ công nghệ giá trị.
-- 🎯 **Mục tiêu dài hạn:** Trở thành chuyên gia trong lĩnh vực **Cybersecurity & AI Engineering**.
-- 💬 **Ngôn ngữ đang trau dồi:** Tiếng Anh và Tiếng Trung để sẵn sàng làm việc trong môi trường toàn cầu.
+- 👨‍💻 **This summer's plan:** Sharpening my **Python, C/C++, HTML/CSS** skills, exploring **AI** in depth, and pursuing valuable tech certifications.
+- 🎯 **Long-term goal:** Becoming a specialist in **Cybersecurity & AI Engineering**.
+- 💬 **Languages I'm improving:** English and Chinese, to be ready for a global working environment.
 
 <br/>
 
 ---
 
-### 🛠️ Kỹ năng & Công cụ lập trình
+### 🛠️ Skills & Tools
 
-**💻 Ngôn ngữ lõi**
+**💻 Core Languages**
 
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -40,7 +40,7 @@ Tôi là một sinh viên ngành Khoa học Máy tính và Công nghệ Thông t
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 
-**🧠 Đang nghiên cứu & Định hướng**
+**🧠 Currently Exploring**
 
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-6C3CE9?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Cybersecurity-9D4EDD?style=for-the-badge&logo=shieldsdotio&logoColor=white" />
@@ -49,76 +49,19 @@ Tôi là một sinh viên ngành Khoa học Máy tính và Công nghệ Thông t
 
 ---
 
-### 🚀 Dự án nổi bật
+### 🏆 Achievements & Certifications
 
-<details>
-<summary><b>🔹 ICPC Algorithm Library — Competitive Programming Toolkit</b></summary>
-<br/>
-
-Thư viện tổng hợp các thuật toán và cấu trúc dữ liệu được xây dựng và thử nghiệm trong quá trình ôn luyện cho **ICPC 2025 Vietnam National Contest**.
-
-| Aspect | Detail |
-|---|---|
-| **Stack** | C++17, Python (benchmarking) |
-| **Nội dung** | 100+ thuật toán về đồ thị, quy hoạch động, lý thuyết số |
-| **Hiệu năng** | Tối ưu cho giới hạn thời gian thi đấu (≤1–2s) |
-| **Repository** | [github.com/07hunglam/icpc-algo-library](https://github.com/07hunglam/icpc-algo-library) |
-
-Mỗi thuật toán đều được kiểm thử với các trường hợp biên và so sánh với lời giải brute-force để đảm bảo tính chính xác trước khi sử dụng trong thi đấu.
-
-</details>
-
-<details>
-<summary><b>🔹 C++ Advanced Data Structures</b></summary>
-<br/>
-
-Tập hợp các cấu trúc dữ liệu nâng cao bằng C/C++ và các kỹ thuật tối ưu hệ thống, được phát triển qua các bài học trên lớp và thử thách trên CodeLearn.
-
-| Aspect | Detail |
-|---|---|
-| **Stack** | C, C++ |
-| **Nội dung** | Nhiều cấu trúc dữ liệu tự cài đặt qua các học phần |
-| **Hiệu năng** | Tập trung vào tối ưu bộ nhớ và kỹ thuật xử lý ở tầng thấp |
-| **Repository** | [github.com/07hunglam/cpp-advanced-structures](https://github.com/07hunglam/cpp-advanced-structures) |
-
-Dự án giúp mình hiểu sâu hơn cách các cấu trúc dữ liệu vận hành ở tầng bộ nhớ và hệ thống, chú trọng vào tính đúng đắn và đánh đổi hiệu năng.
-
-</details>
-
-<details>
-<summary><b>🔹 Codeforces Solutions</b></summary>
-<br/>
-
-Repository cá nhân lưu trữ các lời giải tối ưu và hướng tiếp cận toán học cho các vòng thi đấu lập trình trên Codeforces.
-
-| Aspect | Detail |
-|---|---|
-| **Stack** | C++, Python |
-| **Nội dung** | Lời giải trải dài qua nhiều vòng thi và nhiều dạng bài |
-| **Hiệu năng** | Tập trung vào độ phức tạp thời gian tối ưu và tư duy toán học |
-| **Repository** | [github.com/07hunglam/codeforces-solutions](https://github.com/07hunglam/codeforces-solutions) |
-
-Mỗi lời giải ưu tiên tư duy toán học rõ ràng hơn là brute force, phản ánh cách tiếp cận: tìm ra quy luật hoặc bất biến trước khi bắt tay viết code.
-
-</details>
-
-<br/>
-
----
-
-### 🏆 Thành tích & Chứng chỉ
-
-**Thành tích**
+**Achievements**
 
 <div align="center">
 
 | Recognition | Details |
 |---|---|
-| 🥇 ICPC Vietnam National Programming Contest 2025 | Thành viên đội tuyển **IUH.3noobmem**, đại diện Đại học Công nghiệp TP.HCM tranh tài tại vòng Quốc gia và vòng Duyên hải miền Nam |
+| 🥇 ICPC Vietnam National Programming Contest 2025 | Member of team **IUH.3noobmem**, representing the Industrial University of Ho Chi Minh City at the National and Southern Coastal regional rounds |
 
 </div>
 
-**Chứng chỉ**
+**Certifications**
 
 <img src="https://img.shields.io/badge/IELTS-6.0-6C3CE9?style=flat-square"/>
 <img src="https://img.shields.io/badge/HSK-Level%203-9D4EDD?style=flat-square"/>
@@ -127,7 +70,7 @@ Mỗi lời giải ưu tiên tư duy toán học rõ ràng hơn là brute force,
 
 ---
 
-### 📊 Thống kê GitHub của tôi
+### 📊 My GitHub Stats
 
 <div align="center">
 
@@ -140,11 +83,11 @@ Mỗi lời giải ưu tiên tư duy toán học rõ ràng hơn là brute force,
 
 ---
 
-### 🤝 Kết nối với tôi
+### 🤝 Connect With Me
 
 <div align="center">
 
-Để chuẩn bị tốt cho việc hoàn thiện hồ sơ chuyên nghiệp sau này, bạn có thể kết nối với tôi qua các nền tảng:
+Feel free to connect with me on these platforms as I continue building out my professional profile:
 
 <a href="https://linkedin.com/in/07hunglam"><img src="https://img.shields.io/badge/LinkedIn-6C3CE9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:hunglam220907@gmail.com"><img src="https://img.shields.io/badge/Email-6C3CE9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -157,7 +100,7 @@ Mỗi lời giải ưu tiên tư duy toán học rõ ràng hơn là brute force,
 
 <div align="center">
 
-<i>"Tư duy kiên định, hành động kỷ luật." 🛡️</i>
+<i>"Steady mind, disciplined action." 🛡️</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,50:6C3CE9,100:0F0A1E&height=120&section=footer"/>
 
