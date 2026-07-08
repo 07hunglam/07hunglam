@@ -49,6 +49,84 @@ Tôi là một sinh viên ngành Khoa học Máy tính và Công nghệ Thông t
 
 ---
 
+### 🚀 Dự án nổi bật
+
+<details>
+<summary><b>🔹 ICPC Algorithm Library — Competitive Programming Toolkit</b></summary>
+<br/>
+
+Thư viện tổng hợp các thuật toán và cấu trúc dữ liệu được xây dựng và thử nghiệm trong quá trình ôn luyện cho **ICPC 2025 Vietnam National Contest**.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | C++17, Python (benchmarking) |
+| **Nội dung** | 100+ thuật toán về đồ thị, quy hoạch động, lý thuyết số |
+| **Hiệu năng** | Tối ưu cho giới hạn thời gian thi đấu (≤1–2s) |
+| **Repository** | [github.com/07hunglam/icpc-algo-library](https://github.com/07hunglam/icpc-algo-library) |
+
+Mỗi thuật toán đều được kiểm thử với các trường hợp biên và so sánh với lời giải brute-force để đảm bảo tính chính xác trước khi sử dụng trong thi đấu.
+
+</details>
+
+<details>
+<summary><b>🔹 C++ Advanced Data Structures</b></summary>
+<br/>
+
+Tập hợp các cấu trúc dữ liệu nâng cao bằng C/C++ và các kỹ thuật tối ưu hệ thống, được phát triển qua các bài học trên lớp và thử thách trên CodeLearn.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | C, C++ |
+| **Nội dung** | Nhiều cấu trúc dữ liệu tự cài đặt qua các học phần |
+| **Hiệu năng** | Tập trung vào tối ưu bộ nhớ và kỹ thuật xử lý ở tầng thấp |
+| **Repository** | [github.com/07hunglam/cpp-advanced-structures](https://github.com/07hunglam/cpp-advanced-structures) |
+
+Dự án giúp mình hiểu sâu hơn cách các cấu trúc dữ liệu vận hành ở tầng bộ nhớ và hệ thống, chú trọng vào tính đúng đắn và đánh đổi hiệu năng.
+
+</details>
+
+<details>
+<summary><b>🔹 Codeforces Solutions</b></summary>
+<br/>
+
+Repository cá nhân lưu trữ các lời giải tối ưu và hướng tiếp cận toán học cho các vòng thi đấu lập trình trên Codeforces.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | C++, Python |
+| **Nội dung** | Lời giải trải dài qua nhiều vòng thi và nhiều dạng bài |
+| **Hiệu năng** | Tập trung vào độ phức tạp thời gian tối ưu và tư duy toán học |
+| **Repository** | [github.com/07hunglam/codeforces-solutions](https://github.com/07hunglam/codeforces-solutions) |
+
+Mỗi lời giải ưu tiên tư duy toán học rõ ràng hơn là brute force, phản ánh cách tiếp cận: tìm ra quy luật hoặc bất biến trước khi bắt tay viết code.
+
+</details>
+
+<br/>
+
+---
+
+### 🏆 Thành tích & Chứng chỉ
+
+**Thành tích**
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| 🥇 ICPC Vietnam National Programming Contest 2025 | Thành viên đội tuyển **IUH.3noobmem**, đại diện Đại học Công nghiệp TP.HCM tranh tài tại vòng Quốc gia và vòng Duyên hải miền Nam |
+
+</div>
+
+**Chứng chỉ**
+
+<img src="https://img.shields.io/badge/IELTS-6.0-6C3CE9?style=flat-square"/>
+<img src="https://img.shields.io/badge/HSK-Level%203-9D4EDD?style=flat-square"/>
+
+<br/>
+
+---
+
 ### 📊 Thống kê GitHub của tôi
 
 <div align="center">
